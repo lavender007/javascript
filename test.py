@@ -1,10 +1,17 @@
 # What is the difference between a dictionary in python , an object in Javascript and a json data when dealing with Api
 
+# A python dictionary is a data structure in Python used to store key value pairs
+
+# A java script object is a similar key-value structure used in JavaScript 
+
+#JSON is a text-based data format used to transfer data between systems, especially in API'S
+
+
 Age = 10
 if Age < 18:
     print("This is program is not suitable")
 else:
-    print ("sit relax and enjoy")
+    print("sit relax and enjoy")
 
 Age = 100
 if Age < 12 :

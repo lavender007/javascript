@@ -12,3 +12,9 @@ else if (Distance >= 501 && Distance <= 1000){
 else{
     console.log("Pay 40 USD")
 }
+
+// Triple equal sign 
+//It compares value AND data type
+// example 1 below:
+console.log(7 === "7"); // false
+console.log(true === 1); // false
