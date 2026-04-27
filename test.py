@@ -22,3 +22,8 @@ elif Age > 18 and Age >=40 :
     print("Sit realx and enjoy the movie")
 else : 
     print("Your too old for the movie ")
+
+
+i = 0
+for i in range (0, 11):
+    print("The new value is:", i)
