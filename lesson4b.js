@@ -13,3 +13,6 @@ greet();
 (function(){
     console.log("Welcome to the world of programming ....")
 })();
+
+//Read on arrow function with and without parameters 
+//Resarch on modules in Javascript
